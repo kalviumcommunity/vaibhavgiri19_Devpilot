@@ -1,0 +1,25 @@
+# Capstone Project: DevPilot
+
+## 💡 Project Idea:
+**DevPilot** is a full-stack web application that helps developers manage their coding projects, track progress, and get reminders for DSA/MERN tasks. It includes features like project tracking, roadmap planning, daily challenges, and motivational gamification elements.
+
+## 🧠 Brief Description:
+DevPilot combines productivity tools with smart reminders tailored for coding students. It’s like a coding mentor + progress tracker in one.
+
+## 🗓️ Day-by-Day Plan:
+| Day | Task |
+|-----|------|
+| Day 1 | Project setup, GitHub repo, README creation |
+| Day 2 | Setup React frontend with Vite + Tailwind |
+| Day 3 | Design homepage and navbar UI |
+| Day 4 | Create "Ongoing Projects" section |
+| Day 5 | Implement "Upcoming Projects" tracker |
+| Day 6 | Add DSA & MERN roadmap tabs |
+| Day 7 | Add Problem of the Day section |
+| Day 8 | Connect to backend with Express + MongoDB |
+| Day 9 | Complete API integration for all features |
+| Day 10 | Polish UI, add animations |
+| Day 11 | Test all features |
+| Day 12 | Final cleanup + documentation |
+| Day 13 | Deploy the project |
+| Day 14 | Prepare project presentation/demo |
